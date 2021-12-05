@@ -8,7 +8,7 @@ class Greet
 {
     public function greet(string $name)
     {
-        return "hi $name. How are you today?";
+        return "hi $name. Nice to meet you. How are you today?";
     }
 
 }

@@ -1,0 +1,19 @@
+{
+    "name": "lehuy/greet",
+    "description": "Custom package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lehuy\\Greet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "huynl",
+            "email": "huy.nguyenle@elinext.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
